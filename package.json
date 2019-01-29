@@ -1,0 +1,10 @@
+{
+  "name": "serverless-sanitize-stage-name",
+  "version": "1.0.0",
+  "description": "Sanitize stage name before deploy to only include a-zA-Z0-9_.",
+  "main": "index.js",
+  "repository": "https://github.com/mikaelwaltersson/serverless-sanitize-stage-name.git",
+  "author": "Mikael Waltersson",
+  "license": "MIT",
+  "private": false
+}
